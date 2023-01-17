@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-oNJbSqrjkT](https://www.frontendmentor.io/solutions/qr-code-component-oNJbSqrjkT)
+- Live Site URL: [https://nath-nipan-2022.github.io/QR-Code-Fem-Challenge/](https://nath-nipan-2022.github.io/QR-Code-Fem-Challenge/)
 
 ## My process
 
@@ -56,6 +56,5 @@ const proudOfThisFunc = () => {
 
 ## Author
 
-- Website - [Nipan D/N](https://www.your-site.com)
 - Frontend Mentor - [@nath-Nipan-2022](https://www.frontendmentor.io/profile/nath-Nipan-2022)
 - Twitter - [@Aayouknow](https://www.twitter.com/Aayouknow)
